@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7g0FMCkZE08lz5us2c9Wnns8ojtRnLbM8YUCjg2gMl/qZvdrxmVm8oB7jbDT6hDchOqGkFiXnPMniWiCxGQ99w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrzej\\source\\repos\\Sklep\\Sklep\\Sklep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrzej\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

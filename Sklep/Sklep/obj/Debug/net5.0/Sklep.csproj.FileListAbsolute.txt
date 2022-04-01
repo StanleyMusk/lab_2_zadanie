@@ -1,0 +1,16 @@
+C:\Users\Andrzej\source\repos\Sklep\Sklep\bin\Debug\net5.0\Sklep.exe
+C:\Users\Andrzej\source\repos\Sklep\Sklep\bin\Debug\net5.0\Sklep.deps.json
+C:\Users\Andrzej\source\repos\Sklep\Sklep\bin\Debug\net5.0\Sklep.runtimeconfig.json
+C:\Users\Andrzej\source\repos\Sklep\Sklep\bin\Debug\net5.0\Sklep.runtimeconfig.dev.json
+C:\Users\Andrzej\source\repos\Sklep\Sklep\bin\Debug\net5.0\Sklep.dll
+C:\Users\Andrzej\source\repos\Sklep\Sklep\bin\Debug\net5.0\ref\Sklep.dll
+C:\Users\Andrzej\source\repos\Sklep\Sklep\bin\Debug\net5.0\Sklep.pdb
+C:\Users\Andrzej\source\repos\Sklep\Sklep\obj\Debug\net5.0\Sklep.csproj.AssemblyReference.cache
+C:\Users\Andrzej\source\repos\Sklep\Sklep\obj\Debug\net5.0\Sklep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrzej\source\repos\Sklep\Sklep\obj\Debug\net5.0\Sklep.AssemblyInfoInputs.cache
+C:\Users\Andrzej\source\repos\Sklep\Sklep\obj\Debug\net5.0\Sklep.AssemblyInfo.cs
+C:\Users\Andrzej\source\repos\Sklep\Sklep\obj\Debug\net5.0\Sklep.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\source\repos\Sklep\Sklep\obj\Debug\net5.0\Sklep.dll
+C:\Users\Andrzej\source\repos\Sklep\Sklep\obj\Debug\net5.0\ref\Sklep.dll
+C:\Users\Andrzej\source\repos\Sklep\Sklep\obj\Debug\net5.0\Sklep.pdb
+C:\Users\Andrzej\source\repos\Sklep\Sklep\obj\Debug\net5.0\Sklep.genruntimeconfig.cache

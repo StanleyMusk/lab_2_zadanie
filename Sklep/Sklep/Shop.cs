@@ -24,21 +24,20 @@ namespace Sklep
 
         }
 
-       public string Print()
+       public void Print()
         {
             Console.WriteLine("Shop: "+name);
             Console.WriteLine("-- People: --");
             foreach(var p in people)
             {
-                Console.WriteLine( p.Print() );
-                p.Show();
+                Console.WriteLine("     "+p.Print());    
             }
-            Console.WriteLine("--Products: --");
-            foreach(var p in products)
+            Console.WriteLine("-- Products: --");
+            foreach(var product in products)
             {
-                Console.WriteLine(p.Print());
+                Console.WriteLine("     "+product.Print());
             }
-            return " ";
+
         }
     }
 }

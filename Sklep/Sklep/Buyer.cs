@@ -14,9 +14,17 @@ namespace Sklep
 
  
 
-        public string Print()
+        public override string Print()
         {
-            return "Buyer : " + base.Print();
+            string a = "Buyer : " + base.Print();
+            if(tasks.Count > 0) {
+                a += "\n        --Products: --";
+                foreach (var p in tasks)
+                {
+                    a+="\n          "+p.Print();
+                }
+            }
+            return a;
         }
 
         private List<Product> tasks;
@@ -31,16 +39,6 @@ namespace Sklep
             tasks.Add(p);
         }
 
-
-        public override void Show()
-        {   
-            if(tasks.Count != 0)
-            Console.WriteLine("--Products: --");
-            foreach (var p in tasks)
-            {
-                Console.WriteLine("     "+p.Print());
-            }
-        }
 
         public void RemoveProduct(int n)
         {

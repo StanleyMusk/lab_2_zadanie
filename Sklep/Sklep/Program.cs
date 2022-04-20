@@ -7,14 +7,18 @@ namespace Sklep
         static void Main(string[] args)
         {
 
+
             Seller treacher = new Seller("Jan Kowalski", 50);
 
             Buyer buyer1 = new Buyer("Jaś Fasola 1", 25);
+            buyer1.AddProduct(new Fruit("Apple", 6));
+            buyer1.AddProduct(new Meat("Fish", 0.5));
+
+
             Buyer buyer2 = new Buyer("Jaś Fasola 2", 21);
             Buyer buyer3 = new Buyer("Jaś Fasola 3", 23);
 
-            buyer1.AddProduct(new Fruit("Apple", 6));
-            buyer1.AddProduct(new Meat("Fish", 0.5));
+
 
             Person[] persons = { treacher, buyer1, buyer2, buyer3 };
 
@@ -29,7 +33,6 @@ namespace Sklep
 
             Shop shop = new Shop("Super Market", products, persons);
             shop.Print();
-
 
 
         }

@@ -21,7 +21,7 @@ namespace Sklep
 
         public virtual void Show() {}
 
-        public string Print()
+        public virtual string Print()
         {
             return name + " ("+age+" y.o.)";
         }
